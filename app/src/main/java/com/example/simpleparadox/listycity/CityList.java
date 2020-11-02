@@ -79,6 +79,6 @@ public class CityList {
     }
 
     public void emptyList(){
-
+            this.cities = new ArrayList<>();
     }
 }
